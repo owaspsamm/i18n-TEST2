@@ -3,4 +3,4 @@ files:
     translation: /Translation/%two_letters_code%/%original_file_name%
     excluded_target_languages:
       - it
-        nl-BE
+      - nl-BE
